@@ -6,7 +6,9 @@ Algoritma final projesi
 - Bilişim sistemleri ve teknolojileri b grup
 
 
+
+                          ATM Sistemi
+
   - Projenin amacı: Daha modern bir ATM sistemi oluşturmak için java üzerinden yapılan bir algoritmik proje
-  - 
   - Projenin içeriği: Switch-case, while döngüsü, if ve diğer public class kullanımı mevcut.
  
